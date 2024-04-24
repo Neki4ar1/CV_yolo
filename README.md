@@ -16,10 +16,10 @@
 
 Пример предсказания модели:
 
-*Predict первой версии: [result 1](https://drive.google.com/file/d/1xwsO57o0WsZ6MUl9PymYGZDIpfv56Z1v/view?usp=sharing)
-*Predict второй версии: [result 2](https://drive.google.com/file/d/1cTyRh7RDxs5lxTDHKRfMq0KuPth1hHxk/view?usp=sharing)
-*Сравнение первой и второй версий [comparison](https://drive.google.com/file/d/1bq2xsndV-H62lCvBp8B3ZhaAaID785DF/view?usp=sharing)
-*Predict третьей версии: [result3](https://drive.google.com/file/d/1txo49_ihh9pyMkmLjqDl1roWpvvFRLKl/view?usp=sharing)
+* Predict первой версии: [result 1](https://drive.google.com/file/d/1xwsO57o0WsZ6MUl9PymYGZDIpfv56Z1v/view?usp=sharing)
+* Predict второй версии: [result 2](https://drive.google.com/file/d/1cTyRh7RDxs5lxTDHKRfMq0KuPth1hHxk/view?usp=sharing)
+* Сравнение первой и второй версий [comparison](https://drive.google.com/file/d/1bq2xsndV-H62lCvBp8B3ZhaAaID785DF/view?usp=sharing)
+* Predict третьей версии: [result3](https://drive.google.com/file/d/1txo49_ihh9pyMkmLjqDl1roWpvvFRLKl/view?usp=sharing)
 
 
 После обучения текущей модели были получены следующие метрики качества:
